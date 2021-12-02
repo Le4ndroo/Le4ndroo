@@ -1,4 +1,5 @@
  ## Bom dia, Boa noite, Boa manhã e Boa madrugada eu sou o Leandro Nascimento, estudante de web!
+ 
  <div>
   <a href="https://github.com/Le4ndroo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Le4ndroo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -6,7 +7,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <h1 align="center">Experiências</h1>
+  <h1 align="center" alt="Leandro-Experiencias">Experiências</h1>
   <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
