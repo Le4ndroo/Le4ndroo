@@ -6,6 +6,7 @@
 </div>
 
  <div style="display: inline_block"><br>
+  <p>Um programador python iniciante!</p>
   <img align="center" alt="Leandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/548249931299946508/791843206127288340/Malina1Idle.png">
 </div>
