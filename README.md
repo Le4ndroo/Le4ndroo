@@ -1,4 +1,4 @@
- ## Bom dia, Boa noite, Boa manhã e Boa madrugada eu sou o Leandro Nascimento, estudante de web!
+ ## Bom dia, Boa noite, Boa manhã e Boa madrugada eu sou o Leandro Nascimento, estudante de hacking!
  
  <div>
   <a href="https://github.com/Le4ndroo">
