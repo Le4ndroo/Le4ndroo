@@ -1,4 +1,4 @@
- ## Bom dia, Boa noite, Boa manhã e Boa madrugada eu sou o Leandro Nascimento, estudante de hacking!
+ ## Bom dia, Boa noite, Boa manhã e Boa madrugada eu sou o Leandro Nascimento, estudante de hacking e criador do projeto Pick and Drop!
  
  <div>
   <a href="https://github.com/Le4ndroo">
